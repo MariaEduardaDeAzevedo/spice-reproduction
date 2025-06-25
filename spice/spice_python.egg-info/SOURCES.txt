@@ -1,0 +1,12 @@
+setup.py
+data_structure/__init__.py
+data_structure/scene_graph.py
+metric/__init__.py
+metric/spice.py
+parser/__init__.py
+parser/parser.py
+spice_python.egg-info/PKG-INFO
+spice_python.egg-info/SOURCES.txt
+spice_python.egg-info/dependency_links.txt
+spice_python.egg-info/requires.txt
+spice_python.egg-info/top_level.txt

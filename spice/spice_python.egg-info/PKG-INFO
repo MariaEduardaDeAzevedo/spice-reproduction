@@ -1,0 +1,38 @@
+Metadata-Version: 2.4
+Name: spice_python
+Version: 0.1
+Summary: A simple implementation of the metric SPICE in Python
+Home-page: 
+Author: Seu Nome
+Author-email: maria.silva@ccc.ufcg.edu.com.br
+Requires-Dist: anyio==4.9.0
+Requires-Dist: certifi==2025.4.26
+Requires-Dist: charset-normalizer==3.4.2
+Requires-Dist: colorama==0.4.6
+Requires-Dist: emoji==2.14.1
+Requires-Dist: filelock==3.18.0
+Requires-Dist: fsspec==2025.5.1
+Requires-Dist: h11==0.16.0
+Requires-Dist: httpcore==1.0.9
+Requires-Dist: httpx==0.28.1
+Requires-Dist: idna==3.10
+Requires-Dist: Jinja2==3.1.6
+Requires-Dist: MarkupSafe==3.0.2
+Requires-Dist: mpmath==1.3.0
+Requires-Dist: networkx==3.4.2
+Requires-Dist: numpy==2.2.6
+Requires-Dist: protobuf==6.31.0
+Requires-Dist: requests==2.32.3
+Requires-Dist: sniffio==1.3.1
+Requires-Dist: stanza==1.10.1
+Requires-Dist: sympy==1.14.0
+Requires-Dist: tomli==2.2.1
+Requires-Dist: torch==2.7.0
+Requires-Dist: tqdm==4.67.1
+Requires-Dist: typing_extensions==4.13.2
+Requires-Dist: urllib3==2.4.0
+Requires-Dist: wn==0.12.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: summary
