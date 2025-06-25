@@ -1,0 +1,20 @@
+# Ignora arquivos e pastas de cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ambientes virtuais (comuns)
+env/
+venv/
+.venv/
+
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+
+# Configurações de IDEs comuns
+.vscode/
+.idea/
+
